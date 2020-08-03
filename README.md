@@ -10,3 +10,7 @@ The purpose is to present web development using git
 To deploy this you have to upload on any apache and mysql enabled web server
 
 ## How To Contribute
+Any member of the team/student can contribute to this project without restriction
+
+## Version 
+version 1.0.0
