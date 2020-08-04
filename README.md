@@ -14,3 +14,6 @@ Any member of the team/student can contribute to this project without restrictio
 
 ## Version 
 version 1.0.0
+
+## Copyright
+copyright 2020, All right reserved.
